@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
+title,Title,,,Title
+publication_date,Pub. Date,,,Publication Date
+edition_date, Ed. Date,,,Edition Date
 subject,,true
-location,,true
