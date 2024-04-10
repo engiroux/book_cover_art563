@@ -1,15 +1,60 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,Title	,,
+source_creator,Author	,,
+source_creator_origin, Author Birthplace,,
+source_audience,Audience	,,
+source_genre,Genre,true,
+source_lang,Language	,,
+publication_date, Original Publication Date,,
+edition_date, Edition Publication Date	,,
+source_related,Related,,
+format,Format	,,
+measurements,measurements	,,
+source_identifier, ISBN	,,
+cover_artist,Cover Artist	,,
+cover_artist_origin, Artist Birthplace	,,
+cover_designer,Cover Designer	,,
+cover_designer_origin,Cover Designer Birthplace	,,
+cover_type,Type	,,
+cover_style,Style	,true,
+cover_description,Description	,,
+publisher_name,Publisher	,true,
+publisher_location,Publisher Location	,,
+rights_holder,Rights	,,
+publisher_link,Publisher Site,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
